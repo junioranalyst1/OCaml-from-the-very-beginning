@@ -1,0 +1,13 @@
+# 1.
+# let tentimes x = 10*x;;
+# val tentimes : int -> int = <fun>
+
+#2.
+# let integersign a b = if a <> 0 || b <> 0 then true else false;;
+
+#3.
+# let rec sum n =
+#   if n = 0 then 0 else n + sum n-1;;
+
+# 4.
+# Let power x n = x^n;;
