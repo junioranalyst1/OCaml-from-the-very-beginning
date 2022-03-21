@@ -1,1 +1,1 @@
-# githubtest
+Practice questions from the book 'OCaml from the very beginning' by John Whitington
