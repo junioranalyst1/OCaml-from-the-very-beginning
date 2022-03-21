@@ -1,0 +1,1 @@
+let tentimes x = 10*x;;
